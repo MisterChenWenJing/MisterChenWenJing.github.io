@@ -1,0 +1,6 @@
+// 设置以下变量来控制代码块主题（详情查看：https://vuepress-theme-hope.gitee.io/v2/zh/guide/interface/code-theme.html）
+$code-light-theme: 'one-light'; // 浅色模式下代码主题（默认为 "one-light"）
+$code-dark-theme: 'one-dark'; // 深色模式下代码主题（默认为 "one-dark"）
+
+// 代码块语言
+$code-lang: 'c' 'cpp' 'cs' 'css' 'dart' 'docker' 'fs' 'go' 'html' 'java' 'js' 'json' 'kt' 'less' 'makefile' 'md' 'php' 'py' 'rb' 'rs' 'sass' 'scss' 'sh' 'ts' 'vue' 'yml' 'shell' 'bash' 'apacheconf' 'shell-session' 'nginx' 'git' 'vim';

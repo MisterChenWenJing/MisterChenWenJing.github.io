@@ -9,6 +9,10 @@ export const zhNavbarConfig = navbar([
     children: [
       { text: '随笔', link: '', icon: 'note', activeMatch: '^/note/$' },
       {
+        text: '打包工具',
+        children: ['vite/', 'webpack/']
+      },
+      {
         text: '其他',
         children: ['node-js/']
       }

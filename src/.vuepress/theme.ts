@@ -32,9 +32,9 @@ export default hopeTheme({
 
   pure: false, // 是否开启纯净模式（开启后会禁用一些花哨的动画以及一些色彩 只提供功能）
 
-  // iconAssets: '//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css', // 设置字体图标使用的库（iconfont官网不能生成font-class 待研究怎么使用）
-  // iconPrefix: 'iconfont icon-', // 设置字体图标前缀
   iconAssets: 'iconfont',
+  // iconAssets: '//at.alicdn.com/t/c/font_3538491_oxpdn6fopu.css', // 设置字体图标使用的库
+  // iconPrefix: 'iconfont icon-', // 设置字体图标前缀
 
   fullscreen: true, // 是否开启全屏按钮
 

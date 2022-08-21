@@ -1,0 +1,11 @@
+---
+title: HTML压缩
+order: 15
+category: WebPack
+tag:
+  - WebPack
+---
+
+默认生产模式已经开启了：html 压缩和 js 压缩
+
+不需要额外进行配置

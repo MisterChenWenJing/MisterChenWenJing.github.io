@@ -20,6 +20,8 @@ export const zhSidebarConfig = sidebar({
 
   '/note/': note,
 
+  '/note/webpack/': 'structure',
+
   '/linux/': linux,
 
   '/design/': design,
@@ -56,7 +58,7 @@ export const zhSidebarConfig = sidebar({
 
   '/code/basic/': basic,
 
-  '/code/Android/': ['', 'intro', 'base', 'resource'],
+  '/code/Android/': ['', 'base', 'resource'],
 
   '/code/': code,
 
